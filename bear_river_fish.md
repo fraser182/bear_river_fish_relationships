@@ -4,6 +4,7 @@ We are going to build a small ecosystem! We want to create an ecosystem made up 
 
 ## How Our Ecosystem Works
 
+- A river should have a name e.g. "Amazon"
 - A river should hold many fish
 - A fish should have a name
 
@@ -15,6 +16,6 @@ We are going to build a small ecosystem! We want to create an ecosystem made up 
 
 ## Extensions
 
-
-
+- A bear could have a roar method
+- A bear could have a food_count method
 - A river could have a fish_count method
